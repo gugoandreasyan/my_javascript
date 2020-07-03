@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b3e3813d-0b4b-4b96-826f-2c262146c78e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +45,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/my_javascript" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/untitled2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593777155510</updated>
-      <workItem from="1593777156964" duration="1216000" />
+      <workItem from="1593777156964" duration="1794000" />
     </task>
     <servers />
   </component>
@@ -58,9 +77,13 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1593777882784">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1593778952164">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593777882784" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593778952164" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1593778591701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593778591701" />
   </component>
 </project>
